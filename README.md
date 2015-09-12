@@ -3,4 +3,5 @@ Evaluation system for PBL
 
 ## Members
 - Chiemi Watanabe (University of Tsukuba)
+- Hiro Yoshioka (Rakuten/AIIT)
 - Yoshihide Chubachi (AIIT)
