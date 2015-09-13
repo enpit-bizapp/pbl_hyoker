@@ -24,7 +24,7 @@
 ## Size It Up
 - TODO
 
-## What's Goint to Give?
+## What's Going to Give?
 - TODO
 
 ## What It's Going to Take?
