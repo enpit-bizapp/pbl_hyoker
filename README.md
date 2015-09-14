@@ -5,3 +5,4 @@ Evaluation system for PBL
 - Chiemi Watanabe (University of Tsukuba)
 - Hiro Yoshioka (Rakuten/AIIT)
 - Yoshihide Chubachi (AIIT)
+- Ayumi Kizuka (Future University Hakodate)
